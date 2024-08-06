@@ -1,0 +1,93 @@
+{ "data":[
+    {
+    "id" : 1,   
+    "firstName": "Pramod",
+    "lastName": "Kumar",
+    "dob": "10-10-1988",
+    "phone": "9387434884",
+    "status":"Active",
+    "country": "India"
+    }, 
+    {
+    "id" : 2,   
+    "firstName": "Ram",
+    "lastName": "Kumar",
+    "dob": "01-01-1988",
+    "phone": "7484854854",
+    "status":"Inactive",
+    "country": "India"
+    },
+    {
+    "id" : 3,   
+    "firstName": "Paritosh",
+    "lastName": "Singh",
+    "dob": "10-10-1975",
+    "phone": "9387433345",
+    "status":"Active",
+    "country": "India"
+    },
+    {
+        "id" : 4,   
+        "firstName": "Shailendra",
+        "lastName": "Singh",
+        "dob": "10-10-1983",
+        "phone": "8548858553",
+        "status":"Active",
+        "country": "Sri Lanka"
+    },
+    {
+        "id" : 5,   
+        "firstName": "Test",
+        "lastName": "Admin",
+        "dob": "10-10-1983",
+        "phone": "8548858553",
+        "status":"Active",
+        "country": "Sri Lanka"
+    },
+    {
+        "id" : 6,   
+        "firstName": "KP",
+        "lastName": "Singh",
+        "dob": "01-01-1987",
+        "phone": "8548858553",
+        "status":"Active",
+        "country": "Sri Lanka"
+    },
+    {
+        "id" : 7,   
+        "firstName": "Super",
+        "lastName": "Admin",
+        "dob": "01-01-1987",
+        "phone": "8548858553",
+        "status":"Active",
+        "country": "Australia"
+    },
+    {
+        "id" : 8,   
+        "firstName": "Peter",
+        "lastName": "Kevin",
+        "dob": "01-01-1994",
+        "phone": "3434554545",
+        "status":"Active",
+        "country": "SA"
+    },
+    {
+        "id" : 9,   
+        "firstName": "Kevin",
+        "lastName": "Peterson",
+        "dob": "01-01-1990",
+        "phone": "3434554545",
+        "status":"Inactive",
+        "country": "SA"
+    },
+    {
+        "id" : 10,   
+        "firstName": "RP",
+        "lastName": "Singh",
+        "dob": "01-01-1991",
+        "phone": "3434554545",
+        "status":"Inactive",
+        "country": "India"
+    }
+ ]
+}
